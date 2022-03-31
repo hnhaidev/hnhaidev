@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Javascript Course**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **Typescript, HTML5 and CSS3**
 
 - 📫 How to reach me: **hnhai.dev@gmail.com**
 
